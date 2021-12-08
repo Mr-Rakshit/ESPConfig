@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912916062178",
+    "project_id": "authdemo-container",
+    "storage_bucket": "authdemo-container.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912916062178:android:adc1f4e4ecdab45c2ba3bb",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912916062178-uqefv0r83crgncrpcj6amlnsjm6c3hkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIVrOM4bA18faIAX4nBe-5nPzRaVuvpVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912916062178-uqefv0r83crgncrpcj6amlnsjm6c3hkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
